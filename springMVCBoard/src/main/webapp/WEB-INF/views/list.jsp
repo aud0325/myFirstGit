@@ -11,7 +11,7 @@
 	
 	<table width="500" cellpadding="0" cellspacing="0" border="1">
 		<tr>
-			<td>번호</td>
+			<td>번호aa</td>
 			<td>이름</td>
 			<td>제목</td>
 			<td>날짜</td>
