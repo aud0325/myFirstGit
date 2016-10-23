@@ -11,7 +11,7 @@
 	<%
 		String context = request.getContextPath();
 	%>
-	
+	이부분을 수정했다!
 	<form action="<%=context%>/studentView" method="post">
 		이름 : <input type="text" name="name"><br />
 		나이 : <input type="age" name="age"><br />
